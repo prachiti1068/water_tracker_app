@@ -40,7 +40,7 @@ lib/
 <h2>Installation</h2>
 
 <pre>
-git clone https://github.com/YOUR_USERNAME/water_tracker_app.git
+git clone [https://github.com/prachiti1068/water_tracker_app.git]
 cd water_tracker_app
 flutter pub get
 flutter run
