@@ -58,8 +58,11 @@ flutter run
 <p>
 This project was developed using GitHub branches, commits, pull requests, and merge operations.
 </p>
-![image alt](https://github.com/prachiti1068/water_tracker_app/blob/25d65ee2777fb99a6499f82e4b7a201d6c695000/Screenshot%202026-06-24%20172534.png)
-![image alt](https://github.com/prachiti1068/water_tracker_app/blob/4144fa8e88f778c528ed7534a92f1512ac6699e9/Screenshot%202026-06-24%20182227.png)
-![image alt](https://github.com/prachiti1068/water_tracker_app/blob/4144fa8e88f778c528ed7534a92f1512ac6699e9/Screenshot%202026-06-24%20172549.png)
+<h2>Screenshots</h2>
 
+<p align="center">
+  <img src="Screenshot%202026-06-24%20172534.png" width="250">
+  <img src="Screenshot%202026-06-24%20182227.png" width="250">
+  <img src="Screenshot%202026-06-24%20172549.png" width="250">
+</p>
 
